@@ -1,0 +1,13 @@
+{
+  "name": "divida-zero",
+  "version": "1.0.0",
+  "description": "Dívida Zero — Produto Digital",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node api/server.js",
+    "build": "echo ok"
+  },
+  "dependencies": {
+    "node-fetch": "^2.7.0"
+  }
+}
